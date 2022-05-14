@@ -1,0 +1,37 @@
+﻿  Cinema.cpp
+C:\Users\Carlos Arias\source\repos\Cinema_App\Cinema.cpp(140,22): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\Carlos Arias\source\repos\Cinema_App\Cinema.cpp(154,21): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\Carlos Arias\source\repos\Cinema_App\Cinema.cpp(234,22): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\Carlos Arias\source\repos\Cinema_App\Cinema.cpp(251,23): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\Carlos Arias\source\repos\Cinema_App\Cinema.cpp(285,21): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\Carlos Arias\source\repos\Cinema_App\Cinema.cpp(291,21): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\Carlos Arias\source\repos\Cinema_App\Cinema.cpp(427,22): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\Carlos Arias\source\repos\Cinema_App\Cinema.cpp(454,21): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\Carlos Arias\source\repos\Cinema_App\Cinema.cpp(460,21): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\Carlos Arias\source\repos\Cinema_App\Cinema.cpp(474,21): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\Carlos Arias\source\repos\Cinema_App\Cinema.cpp(480,21): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\Carlos Arias\source\repos\Cinema_App\Cinema.cpp(486,21): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\Carlos Arias\source\repos\Cinema_App\Cinema.cpp(523,20): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\Carlos Arias\source\repos\Cinema_App\Cinema.cpp(541,8): warning C4101:  'prin': variable local sin referencia
+C:\Users\Carlos Arias\source\repos\Cinema_App\Cinema.cpp(585,22): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\Carlos Arias\source\repos\Cinema_App\Cinema.cpp(605,21): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\Carlos Arias\source\repos\Cinema_App\Cinema.cpp(611,21): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\Carlos Arias\source\repos\Cinema_App\Cinema.cpp(617,21): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\Carlos Arias\source\repos\Cinema_App\Cinema.cpp(737,22): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\Carlos Arias\source\repos\Cinema_App\Cinema.cpp(854,22): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\Carlos Arias\source\repos\Cinema_App\Cinema.cpp(876,21): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\Carlos Arias\source\repos\Cinema_App\Cinema.cpp(882,21): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\Carlos Arias\source\repos\Cinema_App\Cinema.cpp(890,21): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\Carlos Arias\source\repos\Cinema_App\Cinema.cpp(896,21): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\Carlos Arias\source\repos\Cinema_App\Cinema.cpp(902,21): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\Carlos Arias\source\repos\Cinema_App\Cinema.cpp(909,21): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\Carlos Arias\source\repos\Cinema_App\Cinema.cpp(916,21): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\Carlos Arias\source\repos\Cinema_App\Cinema.cpp(943,22): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\Carlos Arias\source\repos\Cinema_App\Cinema.cpp(961,21): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\Carlos Arias\source\repos\Cinema_App\Cinema.cpp(967,21): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\Carlos Arias\source\repos\Cinema_App\Cinema.cpp(975,21): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\Carlos Arias\source\repos\Cinema_App\Cinema.cpp(981,21): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\Carlos Arias\source\repos\Cinema_App\Cinema.cpp(987,21): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\Carlos Arias\source\repos\Cinema_App\Cinema.cpp(994,21): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\Carlos Arias\source\repos\Cinema_App\Cinema.cpp(1001,21): warning C4018:  '<': no coinciden signed/unsigned
+  Cinema_App.vcxproj -> C:\Users\Carlos Arias\source\repos\Cinema_App\Debug\Cinema_App.exe

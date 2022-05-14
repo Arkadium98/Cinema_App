@@ -1,0 +1,33 @@
+Función;Sala;Hora;Película;Hora en Número;Hora de Fin
+fs1;1;16:00;Doctor Sleep;1600;1800
+fs2;1;17:00;Joker;1700;1900
+fs3;2;18:00;The King;1800;2000
+fs4;5;19:00;Coherence;1900;2100
+fs5;3;9:00;Star Wars: Episode V-The Empire Strikes Back;900;1100
+fs6;5;10:00;Harry Potter and the Deathly Hallows- Part 2;1000;1200
+fs7;4;11:00;Back to the Future Part II;1100;1300
+fs8;3;11:00;Hachi: A Dog's Tale;1100;1400
+fs9;5;13:00;Mother;1300;1500
+fs10;6;16:00;Toy Story;1600;1800
+fs11;2;17:00;Split ;1700;1900
+fs12;4;18:00;The Notebook;1800;2000
+fs13;1;11:00;Toy Story;1100;2000
+fs14;3;13:00;Toy Story;1300;2000
+fs15;5;12:00;Toy Story;1200;2000
+fs16;1;13:15;Joker;1315;2000
+fs17;2;10:20;Joker;1020;2000
+fs18;3;15:30;The King;1530;2000
+fs19;1;20:00;The King;2000;2000
+fs20;4;13:30;Coherence;1330;2000
+fs21;5;21:00;Coherence;2100;2000
+fs22;3;18:30;Star Wars: Episode V-The Empire Strikes Back;1830;2000
+fs23;2;12:30;Star Wars: Episode V-The Empire Strikes Back;1230;2000
+fs24;6;9:30;Star Wars: Episode V-The Empire Strikes Back;930;2000
+fs25;4;20:00;Harry Potter and the Deathly Hallows- Part 2;2000;2000
+fs26;2;14:30;Harry Potter and the Deathly Hallows- Part 2;1430;2000
+fs27;6;11:30;Back to the Future Part II;1130;2000
+fs28;3;20:30;Back to the Future Part II;2030;2000
+fs29;2;20:00;Hachi: A Dog's Tale;2000;2000
+fs30;6;18:00;Mother;1800;2000
+fs31;2;22:00;Split ;2200;2000
+fs32;6;20:00;The Notebook;2000;2000

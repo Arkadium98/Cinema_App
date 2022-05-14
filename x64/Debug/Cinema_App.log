@@ -1,0 +1,8 @@
+﻿  Cinema.cpp
+C:\Users\Carlos Arias\source\repos\Cinema_App\Cinema.cpp(31,33): warning C4267:  'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Carlos Arias\source\repos\Cinema_App\Cinema.cpp(89,37): warning C4267:  'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Carlos Arias\source\repos\Cinema_App\Cinema.cpp(329,39): warning C4267:  'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Carlos Arias\source\repos\Cinema_App\Cinema.cpp(566,8): warning C4101:  'prin': variable local sin referencia
+C:\Users\Carlos Arias\source\repos\Cinema_App\Cinema.cpp(656,37): warning C4267:  'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Carlos Arias\source\repos\Cinema_App\Cinema.cpp(789,37): warning C4267:  'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Cinema_App.vcxproj -> C:\Users\Carlos Arias\source\repos\Cinema_App\x64\Debug\Cinema_App.exe
